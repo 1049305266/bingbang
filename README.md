@@ -1,2 +1,0 @@
-# bingbang
-my github。
